@@ -1,3 +1,25 @@
+###Mercury Retrograde
+- This simple app is to help you keep up with Mercury Retrograde. MercRetro hits a free API from these guys:
+https://mercuryretrogradeapi.com/about.html
+
+The team apparently runs an app called Gingr that serves as back office software for dog boarding and grooming businesses. Apparently mercury retrograde is something thet factor in!
+https://www.gingrapp.com/
+
+
+Enjoy!
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
