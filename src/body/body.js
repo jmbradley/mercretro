@@ -35,5 +35,4 @@ console.log(props.isRetro);
           </div>
         )};
     }
-
 export default Body;
