@@ -61,8 +61,8 @@ class App extends Component {
         <div className="mainbody">
           <div className="sliderbanner">
               <h1>
-              Mercury Retrograde Has A Crazy Impact On The Choices You Make.<br/>
-             <span className="emphasis3">Know With Precision Before Your Decision!</span>
+              Mercury Retrograde Can Have A Crazy Impact On The Choices You Make.<br/>
+             <span className="emphasis3">Know With Precision, <br/> Before A Decision!</span>
               </h1>
               
               <label className="switch">
