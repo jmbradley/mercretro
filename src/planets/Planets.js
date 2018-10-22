@@ -29,7 +29,7 @@ console.log(isRetro);
             <img src= {logo2} className="App-logo" alt="logo" />
             <img src= {logo2} className="App-logo" alt="logo" />
         </div>
-        )};
+        )}
     }
 
 export default Planets;

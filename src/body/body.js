@@ -27,12 +27,12 @@ console.log(props.isRetro);
         )}
 
     else {
-        return(
+        return (
             <div className="rightbox">
             <h3>Mercury is <span className="emphasis1">NOT</span> in Retrograde.</h3>
-            <div class="check"></div><div class="check"></div><div class="check"></div>
+            <div className="check"></div><div className="check"></div><div className="check"></div>
             <img src={crown} alt="Keep Cool Daddy-O"/>
           </div>
-        )};
+        )}
     }
 export default Body;
